@@ -10,7 +10,7 @@ body {
 }
 
 .image-container {
-	background-image: url("./img/zodiac.jpg");
+	background-image: url("/home/pif/Desktop/JavaScript/Project/zodiac.jpg");
 	background-size: cover;
 	background-position: center;
 }
